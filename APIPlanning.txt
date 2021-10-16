@@ -1,0 +1,12 @@
+- auth
+- foods
+- Restaurants
+- menus
+- orders
+- payments (Razorpay)
+- Reviews
+- Users (details)
+- Images
+- 
+
+Deployment - Git repo/ CICD/ AWS
